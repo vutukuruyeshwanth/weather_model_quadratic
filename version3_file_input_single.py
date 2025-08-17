@@ -1,4 +1,4 @@
-with open("inputs_single.txt", "r") as f:
+with open("input_single.txt", "r") as f:
     lines = f.readlines()
 
 a = float(lines[0])
